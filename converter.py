@@ -38,7 +38,8 @@ train_set_y = y[:150]
 val_set_y = y[151:160]
 test_set_y = y[161:212]
 
-int a =0;
+int a=0
+
 #print train_set_x.shape
 #print train_set_y.shape
 train_set = train_set_x, train_set_y
